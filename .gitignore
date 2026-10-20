@@ -1,0 +1,9 @@
+# Thư viện cài bằng npm install, không đưa lên GitHub
+node_modules/
+
+# Biến môi trường chứa mật khẩu DB, JWT secret
+.env
+
+# Log và file hệ điều hành
+*.log
+.DS_Store
